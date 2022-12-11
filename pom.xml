@@ -41,6 +41,12 @@
             <artifactId>json-path</artifactId>
             <version>2.7.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>6.10.1</version>
+        </dependency>
     </dependencies>
 
     <build>
